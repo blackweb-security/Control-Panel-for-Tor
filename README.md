@@ -5,7 +5,7 @@ Control Panel for Tor is a Tor controller.
 tor-control-panel is produced independently from the Tor anonymity
 software and carries no guarantee from The Tor Project about quality,
 suitability or anything else.
-## How to install `tor-control-panel` using apt-get ##
+## How to install `Control Panel for Tor` using apt-get ##
 
 1\. Add [BlackWeb Signing Key]
 
